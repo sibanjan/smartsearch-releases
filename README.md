@@ -29,7 +29,7 @@ Settings → Apps. Run the same command again to upgrade.
 
 - 64-bit Windows 10 (1809 or later) or Windows 11
 - Microsoft Edge WebView2 (Windows 11 already has it)
-- About 1.1 GB of disk for the app, plus about 700 MB for the search models
+- About 300 MB of disk for the app, plus about 700 MB for the search models
 
 ## Privacy
 
